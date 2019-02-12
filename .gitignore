@@ -1,0 +1,8 @@
+# Ignore svn files
+.svn/
+
+# Ignore large project files
+/Projects
+
+# Ignore data files
+*.dat
